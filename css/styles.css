@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.card {
+    width: 500px;
+    margin: 100px auto;
+}
+
+.btn {
+    margin-top: 30px;
+}
+
+.field {
+    position: relative;
+    background: url(../img/grass.jpg);
+    margin: auto;
+}
+
+.square {
+    position: absolute;
+    border: 1px solid white;
+}
